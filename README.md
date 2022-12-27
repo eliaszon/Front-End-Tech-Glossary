@@ -91,7 +91,7 @@
 | the parent element         | 父元素         |
 | be inherited from          | 继承自         |
 
-## attribute 和 property 的区别
+## 🌴attribute 和 property 的区别
 
 以下是 ChatGPT 的解释：
 
@@ -197,33 +197,33 @@ input.value = 'hello';
 |  a shared parent | 共享父类 |
 | reusable, nestable components | 可重复使用、可嵌套的组件 |
 
-# 技术英语表达
+# 🍁技术英语表达
 
 | 术语                    | 中文翻译       | 例句 |
 | ----------------------- | -------------- |-----------------|
 | Under the hood          | 这个比较难直译，大意是内部机制或细节 | Under the hood, it uses Babel and webpack, but you don’t need to know anything about them.( from react doc) |
+| wrap XXX in (into) XXX | 把什么包裹在什么里面 |Therefore, to pass a JS object in JSX, you must wrap the object in another pair of curly braces |
+| deploy to production | 部署到生产 | When you’re ready to deploy to production, running npm run build will create an optimized build of your app in the build folder. |
+| First Contentful Paint |  “首次内容可见时间”。它是指在浏览器中加载网页时，首次可以显示出页面内容的时间（不包括图片）||
+| Largest Contentful Paint |  “最大内容可见时间”。它是指页面中最大的内容元素（例如图像、视频或文本）出现在浏览器中可见的时间。||
+| Don’t Repeat Yourself （DRY） | 不重复造轮子。（也叫 DRY 法则） |The most important principle for structuring state is to keep it DRY (Don’t Repeat Yourself). |
 | Built-in                | 内置的         | |
 | Expressions             | 表达式         | |
 | Comment                 | 注释          | |
 | interactivity           | 交互性         | |
 | specified               | 指定的         | |
-| wrap XXX in (into) XXX | 把什么包裹在什么里面 |Therefore, to pass a JS object in JSX, you must wrap the object in another pair of curly braces |
 | Fixed values                          | 固定值             | |
-| pipeline | 在技术领域，pipeline 指的是一系列相关的任务，每个任务都是有先后顺序的，并且依赖于其他任务的输出结果。在软件工程领域，pipeline 通常指的是软件开发流程，包括代码编写、编译、调试、测试和部署等步骤，每一步骤都是相互依赖的，一个步骤完成后可以作为另一| it just creates a frontend build pipeline |
+| pipeline | 在技术领域，pipeline 指的是一系列有先后顺序的相关的任务或开发流程。 | it just creates a frontend build pipeline |
 | toolchains | 工具链 | |
-| deploy to production | 部署到生产 | When you’re ready to deploy to production, running npm run build will create an optimized build of your app in the build folder. |
 | Breakpoint |断点 | set breakpoint 设置断点 |
-| First Contentful Paint |  “首次内容可见时间”。它是指在浏览器中加载网页时，首次可以显示出页面内容的时间（不包括图片）|
-| Largest Contentful Paint |  “最大内容可见时间”。它是指页面中最大的内容元素（例如图像、视频或文本）出现在浏览器中可见的时间。|
 | Fields | 字段 （表单中的） | |
-| Search Engine Optimization | 搜索引擎优化 SEO |
+| Search Engine Optimization | 搜索引擎优化 SEO ||
 | Semantic HTML |语义化的HTML ||
 |  What You See is What You Get | 所见即所得 一般可以缩写为 WYSIWYG | |
 | a tic-tac-toe game | 井字游戏| |
 | minify | 简化 | I used a program to minify my code.|
 | inspect | 检查 | |
 | nesting components | 嵌套组件 | |
-| Don’t Repeat Yourself （DRY） | 不要重复造轮子 (“不要重复自己”。这个原则提倡程序员避免重复编写相同的代码。也就是说，如果需要对代码进行修改，只需要在一个地方修改，而不需要到处修改，这样可以节省时间，减少错误，并使代码更容易维护。) |The most important principle for structuring state is to keep it DRY (Don’t Repeat Yourself). |
 | on-demand | 按需 | Figure out the absolute minimal representation of the state your application needs and compute everything else on-demand |
 | inverse data flow | 逆向数据流 | |
 | Spot the mistake  | 发现错误 | |
