@@ -222,14 +222,14 @@ input.value = 'hello';
 |  What You See is What You Get | 所见即所得 一般可以缩写为 WYSIWYG | |
 | a tic-tac-toe game | 井字游戏| |
 | minify | 简化 | I used a program to minify my code.|
-| inspect | 检查 | |
+| inspect | 检查 | Open the DevTools. You can do this by right-clicking on the page and selecting "Inspect" or by using the keyboard shortcut Cmd+Option+I (Mac) or Ctrl+Shift+I (Windows) |
 | nesting components | 嵌套组件 | |
 | on-demand | 按需 | Figure out the absolute minimal representation of the state your application needs and compute everything else on-demand |
-| inverse data flow | 逆向数据流 | |
+| inverse data flow | 逆向数据流 | In React, inverse data flow allows us to send data between parent and child components as props, or properties. However, components that are cousins or siblings cannot directly communicate with each other. |
 | Spot the mistake  | 发现错误 | |
-| landing screen | 登陆界面 | |
+| landing screen | 登陆界面 | A landing screen, also known as a landing page or homepage, is the first page that visitors see when they click a link to your website. It's the page that "lands" them on your site. Usually, you can use the login feature on the page|
 | Adjacent | 相邻的 | Adjacent JSX elements must be wrapped in an enclosing tag |
-| legible | 可读的 | |
+| legible | 可读的 | It refers to code that is easily readable and understandable by humans. |
 
 
 
