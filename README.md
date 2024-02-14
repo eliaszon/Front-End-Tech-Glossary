@@ -177,6 +177,26 @@ input.value = 'hello';
 | Event Bubbling         | 事件冒泡       |        |
 | Event propagation      | 事件传播       |        |
 
+
+
+# 🎈Vue
+
+| 术语                    | 中文翻译                                               | 例句                                                         |
+| ----------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
+| be typecast as          | 被类型转换为                                           |                                                              |
+| Interpolation           | 插入、插值                                             |                                                              |
+| imperatively            | 命令式地                                               |                                                              |
+| one composable function | 组合式函数                                             |                                                              |
+| unwrap                  | 展开、打开                                             | If the provided value is a ref, it will be injected as-is and will not be automatically unwrapped. |
+| Listening to Events     | 监听事件                                               |                                                              |
+| Transpilation           | 转译                                                   |                                                              |
+| kebab-case              | 连字符连接命名法 例：<button-counter></button-counter> |                                                              |
+| a two-way binding       | 双向绑定                                               |                                                              |
+| syntactic sugar         | 语法糖                                                 |                                                              |
+| semantic class names    | 语义类名                                               |                                                              |
+
+
+
 # 💥React
 
 | 术语                    | 中文翻译       |
@@ -230,6 +250,7 @@ input.value = 'hello';
 | landing screen | 登陆界面 | |
 | Adjacent | 相邻的 | Adjacent JSX elements must be wrapped in an enclosing tag |
 | legible | 可读的 | |
+| the Unix epoch | 时间戳的起点 | "The Unix epoch"（Unix 纪元）指的是时间戳的起点，即1970年1月1日午夜（00:00:00）协调世界时（UTC）。在计算机系统和编程中，特别是在使用Unix和类Unix系统（如Linux、MacOS）时，时间经常以自Unix纪元以来经过的秒数来表示。 |
 
 
 
